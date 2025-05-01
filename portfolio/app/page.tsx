@@ -11,7 +11,7 @@ export default async function Index() {
         <div className="container">
           <div id="welcome">
             <h1 className="text-gray-600">
-              <span className="text-blue-500"> Hello there, </span>
+              <span className="text-blue-600">Hello there, </span>
               This is my portfolio 👋
             </h1>
           </div>
